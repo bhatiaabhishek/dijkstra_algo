@@ -2,4 +2,4 @@
 
 To run:
 
-$ python main.py main.txt
+$ python3 main.py main.txt
